@@ -7,7 +7,7 @@ function initMap() {
         center: {lat: -19.257753, lng: 146.823688},
     });
 
-    var kmlLayer = new google.maps.KmlLayer('https://nikajamburia.github.io/files/routes-adjara.kml', {
+    var kmlLayer = new google.maps.KmlLayer('https://nikajamburia.github.io/files/routes-adjara-sm.kml', {
         suppressInfoWindows: true,
         map: map
     });
