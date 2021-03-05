@@ -7,12 +7,8 @@ function initMap() {
         center: {lat: -19.257753, lng: 146.823688},
     });
 
-    var src = "https://drive.google.com/u/0/uc?id=13fB9iAVGC4ShtooDQNoNZ3p79PdnduRX&export=download"
-    var kmlLayer = new google.maps.KmlLayer({
-        url: src,
+    var kmlLayer = new google.maps.KmlLayer('https://nikajamburia.github.io/files/routes.kmz', {
         suppressInfoWindows: true,
-        preserveViewport: false,
-        zoom: 2,
         map: map
     });
 
