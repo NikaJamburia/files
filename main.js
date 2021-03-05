@@ -7,10 +7,22 @@ function initMap() {
         center: {lat: 41.68234735080762, lng: 44.8471791124803},
     });
 
-    var allRoutesData = new google.maps.Data({map: map});
+    // var kmlLayer = new google.maps.KmlLayer("https://nikajamburia.github.io/files/routes-adjara-2.kml", {
+    //     map: map,
+    //     suppressInfoWindows: true,
+    //     preserveViewport: false,
+    //   });
 
+    // kmlLayer.addListener('click', function(event) {
+    //     var content = event.featureData.infoWindowHtml;
+    //     console.log(event.featureData);
+    //     var testimonial = document.getElementById('capture');
+    //     testimonial.innerHTML = content;
+    // });
+
+    var allRoutesData = new google.maps.Data({map: map});
     allRoutesData.loadGeoJson(
-        "https://nikajamburia.github.io/files/routes-adjara-sm.geojson"
+        "https://nikajamburia.github.io/files/routes-adjara.geojson"
     );
 
     allRoutesData.setStyle({
