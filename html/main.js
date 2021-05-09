@@ -12,7 +12,7 @@ function initMap() {
 
     var adjaraRoutes = new google.maps.Data({map: map});
     adjaraRoutes.loadGeoJson(
-        "https://nikajamburia.github.io/files/geojson/routes-samcxe-javakheti.geojson"
+        "https://nikajamburia.github.io/files/geojson/routes-imereti.geojson"
     );
 
     adjaraRoutes.setStyle({
@@ -39,6 +39,7 @@ function initMap() {
 
   function moveMapOnSelectRoute(map, eventCoordinates, route) {
     map.panTo( eventCoordinates );
+    console.log(route)
 
     var routeLength = parseInt(route.i.lengthInKm);
     var zoomLevel;
