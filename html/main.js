@@ -12,7 +12,7 @@ function initMap() {
 
     var adjaraRoutes = new google.maps.Data({map: map});
     adjaraRoutes.loadGeoJson(
-        "https://nikajamburia.github.io/files/geojson/routes-imereti.geojson"
+        "https://nikajamburia.github.io/files/geojson/routes-all.geojson"
     );
 
     adjaraRoutes.setStyle({
