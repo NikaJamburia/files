@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>საქართველოს ტურისტული  მარშრუტები</name>
+    <description/>
+    <Style id="line-E65100-1581-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.581</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-1581-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.3715</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-1581">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-1581-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-1581-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-1775-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.775</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-1775-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.6625</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-1775">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-1775-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-1775-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-1969-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.969</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-1969-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.9535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-1969">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-1969-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-1969-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-2163-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.163</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-2163-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.2445</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-2163">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-2163-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-2163-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-2356-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.356</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-2356-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.534</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-2356">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-2356-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-2356-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-2550-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.55</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-2550-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.825</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-2550">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-2550-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-2550-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-2744-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.744</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-2744-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.116</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-2744">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-2744-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-2744-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-2938-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-2938-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-3131-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.131</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-3131-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.6965</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-3131">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-3131-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-3131-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-3325-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-3325-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-3519-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.519</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-3519-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.2785</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-3519">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-3519-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-3519-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-3713-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.713</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-3713-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.5695</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-3713">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-3713-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-3713-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-3906-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>3.906</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-3906-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.859</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-3906">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-3906-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-3906-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-4100-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.1</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-4100-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>6.15</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-4100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-4100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-4100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-E65100-4875-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>4.875</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-4875-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>7.3125</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-4875">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-4875-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-4875-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-3000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-3000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF0000-4000-normal">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF0000-4000-highlight">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF0000-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF0000-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF0000-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-1969-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>1.969</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-1969-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>2.9535</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-1969">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-1969-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-1969-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-3000-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-3000-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF5252-4000-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF5252-4000-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF5252-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF5252-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF5252-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FF557F-4000-normal">
+      <LineStyle>
+        <color>ff7f55ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FF557F-4000-highlight">
+      <LineStyle>
+        <color>ff7f55ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FF557F-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FF557F-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FF557F-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    
+  <!-- Insert <Folder></Folder> here -->
+
+    </Document>
+  </kml>
