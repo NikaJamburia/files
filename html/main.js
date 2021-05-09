@@ -12,7 +12,7 @@ function initMap() {
 
     var adjaraRoutes = new google.maps.Data({map: map});
     adjaraRoutes.loadGeoJson(
-        "https://nikajamburia.github.io/files/routes-adjara-2.geojson"
+        "https://nikajamburia.github.io/files/geojson/routes-samcxe-javakheti.geojson"
     );
 
     adjaraRoutes.setStyle({
