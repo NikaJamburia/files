@@ -18047,7 +18047,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00002",
         "name": "მამკოდის რთული მარშრუტი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -18295,7 +18295,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00003",
         "name": "ეროვნული პარკის საინფორმაციო ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -24513,7 +24513,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00004",
         "name": "ზეკარის უღელტეხილის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -26831,7 +26831,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00005",
         "name": "თოვლის ფეხსაცმელების ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -27879,7 +27879,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00006",
         "name": "თოვლის ფეხსაცმელების ბილიკი_2",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -28062,7 +28062,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00007",
         "name": "მეღრუკის ხეობა",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -30145,7 +30145,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00008",
         "name": "მწყემსების ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -31948,7 +31948,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00009",
         "name": "ნაკვალევის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -36591,7 +36591,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00010",
         "name": "ნიკოლოზ რომანოვის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -40729,7 +40729,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00011",
         "name": "პანორამების ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -51497,7 +51497,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00012",
         "name": "წმინდა ანდრია პირველწოდებულის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -52575,7 +52575,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00013",
         "name": "ხელუხლებელი ტყის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -53258,7 +53258,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00014",
         "name": "მაჭის ციხის მარშრუტი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -54176,7 +54176,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00015",
         "name": "ნინოსხევის ჩანჩქერის (დიდი ჩანჩქერი) ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -54404,7 +54404,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00016",
         "name": "როჭოს ჩანჩქერის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -56402,7 +56402,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00017",
         "name": "შავი კლდეების ტბის მარშრუტი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -64650,7 +64650,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00018",
         "name": "ბუღა - მოედანი - შავი მთა",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -66612,7 +66612,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00019",
         "name": "ვიზიტორთა ცენტრი - არწივის ხეობა",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -68729,7 +68729,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00020",
         "name": "ტახტიტეფას ტალახის ვულკანები",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -73021,7 +73021,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00021",
         "name": "პანტიშარა - დათვისხევი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -83163,7 +83163,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00022",
         "name": "მიჯნისყურე - შავი მთა",
         "styleUrl": "#line-FF0000-3000",
         "styleHash": "6df766b3",
@@ -88350,7 +88350,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00023",
         "name": "მიჯნისყურე - სპორტული თევზაობა",
         "styleUrl": "#line-FF5252-3000",
         "styleHash": "-7d12988d",
@@ -92442,7 +92442,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00024",
         "name": "კაკლისყურე - ალაზნის ჭალა",
         "styleUrl": "#line-FF5252-3000",
         "styleHash": "-7d12988d",
@@ -93019,7 +93019,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00025",
         "name": "დართლო-კვავლოს ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -94962,7 +94962,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00026",
         "name": "გონთას ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -96215,7 +96215,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00027",
         "name": "დოჭუს ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -98213,7 +98213,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00028",
         "name": "დიკლოს ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -99906,7 +99906,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00029",
         "name": "დაქუეხის ბილიკი",
         "styleUrl": "#line-FF557F-4000",
         "styleHash": "1f456453",
@@ -102389,7 +102389,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00030",
         "name": "წოვათას ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -102487,7 +102487,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00031",
         "name": "ვიზიტორთა ცენტრის ბილიკი",
         "styleUrl": "#line-FF0000-4000",
         "styleHash": "1fd31dd3",
@@ -103734,7 +103734,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00032",
         "name": "სიყვარულის ციხის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -104257,7 +104257,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00033",
         "name": "კესელო - ქუეს ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -105205,7 +105205,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00034",
         "name": "ორეთის ბილიკი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
@@ -109148,7 +109148,7 @@
         ]
       },
       "properties": {
-        "routeCode": "AD00001",
+        "routeCode": "AD00035",
         "name": "დიდი გადმოსახედის მარშრუტი",
         "styleUrl": "#line-FF5252-4000",
         "styleHash": "34c91e93",
